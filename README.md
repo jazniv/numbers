@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Juliana Glodek
+2. Student ID: 2315321
+3. Email: glodek@chapman.edu
+4. Class: CPSC298-01
 5. Assignment: numbers 
 
 ## Application Purpose
