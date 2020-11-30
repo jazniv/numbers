@@ -1,6 +1,5 @@
 #! /bin/bash
 # Juliana Glodek
-# numbers.sh
 
 echo "Enter a positive number: "
 read number
